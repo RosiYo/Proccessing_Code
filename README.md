@@ -1,4 +1,4 @@
-# Welcome to my short of Hello World
+# Welcome to my short of "Hello World"
 
 This code it has been made mainly because I wanted to improve my  programing skills. I have to give most of the credit of this repository to Daniel Shiffman, wich book "The Nature Of Code" has guide me on my code development and improvement. 
 
