@@ -1,0 +1,4 @@
+Instrucciones
+1- Ejecutar el archivo "CURRENT_FLOW"
+2- Clickar para generar una carga positiva y una negativa
+3- Pulsar cualquier tecla para mostrar las lineas de campo
